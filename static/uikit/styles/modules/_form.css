@@ -33,7 +33,7 @@
 
 .form__label--hidden {
   position: absolute;
-  text-indent: -9999px;
+  text-indent: 0.5rem;
 }
 
 input.input[type='text'],
