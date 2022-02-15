@@ -1,3 +1,6 @@
 Django
 pillow
 whitenoise
+
+djangorestframework
+djangorestframework-simplejwt
