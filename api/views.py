@@ -24,8 +24,6 @@ def getRoutes(request):
 # @permission_classes([IsAuthenticated])
 def getProjects(request):
 
-    print('USER:', request.user)
-
     projects = Project.objects.all()
     serializer = ProjectSerializer(projects, many=True)
 
