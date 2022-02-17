@@ -1,7 +1,6 @@
 # created by virtualenv automatically
 /venv/
 /.idea/
-/resources/
 
 db.sqlite3
 */migrations/
